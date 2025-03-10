@@ -24,5 +24,5 @@ To run the game locally, follow the steps below:
 
 ## How to run
 
--To run the game, execute the DesktopLauncher.java file
+-To run the game, execute the DesktopLauncher.java file (path: desktop/src/com/mygdx/game/DesktopLauncher.java)
 
